@@ -138,15 +138,15 @@ and a cluster to land on — and I've built every one of those layers, in more t
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/layers-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/layers-light.svg">
-    <img alt="The whole stack — development, DevSecOps, cloud and orchestration, Linux and systems administration." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/layers-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/map-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/map-light.svg">
+    <img alt="The whole stack — development, DevSecOps, cloud and orchestration, Linux and systems administration, and applied AI." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/map-dark.svg" width="100%">
   </picture>
 </p>
 
-Most people specialise in one of these bands. I work across all four — which means I can write the
-service, automate its path to production, package it to run anywhere, and administer the machines
-underneath it. The tools change per project; the layers don't.
+Most people specialise in one of these. I work across all five — which means I can write the
+service, automate its path to production, package it to run anywhere, administer the machines under
+it, and wire a model into it when that is the right answer. The tools change per project; the layers do not.
 
 ---
 

@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="mt">
+  <title id="mt">The whole stack — development, DevSecOps, cloud and orchestration, Linux and systems administration, and applied AI.</title>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="-0.7" y1="0" x2="-0.2" y2="0">
+      <stop offset="0%" stop-color="#30363d"/><stop offset="45%" stop-color="#58a6ff"/>
+      <stop offset="55%" stop-color="#bc8cff"/><stop offset="100%" stop-color="#30363d"/>
+      <animate attributeName="x1" values="-0.7;1.0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-0.2;1.5" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/><stop offset="27%" stop-color="#3fb950"/>
+      <stop offset="52%" stop-color="#bc8cff"/><stop offset="76%" stop-color="#f0883e"/>
+      <stop offset="100%" stop-color="#f778ba"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.5" cy="0" r="0.9"><stop offset="0%" stop-color="#58a6ff" stop-opacity=".16"/><stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.5" cy="0" r="0.9"><stop offset="0%" stop-color="#3fb950" stop-opacity=".16"/><stop offset="100%" stop-color="#3fb950" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g3" cx="0.5" cy="0" r="0.9"><stop offset="0%" stop-color="#bc8cff" stop-opacity=".16"/><stop offset="100%" stop-color="#bc8cff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g4" cx="0.5" cy="0" r="0.9"><stop offset="0%" stop-color="#f0883e" stop-opacity=".16"/><stop offset="100%" stop-color="#f0883e" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g5" cx="0.5" cy="0" r="0.9"><stop offset="0%" stop-color="#f778ba" stop-opacity=".16"/><stop offset="100%" stop-color="#f778ba" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#30363d" opacity="0.5"/>
+    </pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="1198" height="418" rx="14"/></clipPath>
+    <style>
+      .f { font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .m { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+      .card { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+      .ttl  { fill: #e6edf3; font-weight: 700; }
+      .desc { fill: #7d8590; }
+      .num  { fill: #30363d; font-weight: 700; }
+      .ico  { fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      .chev { stroke: #30363d; stroke-width: 2; fill: none; stroke-linecap: round; }
+      .rail { stroke: #30363d; stroke-width: 2; stroke-linecap: round; }
+      .pulse { stroke: url(#flow); stroke-width: 3; fill: none; stroke-linecap: round;
+               stroke-dasharray: 920; stroke-dashoffset: 920;
+               animation: draw 8s cubic-bezier(.45,.05,.35,1) infinite; }
+      @keyframes draw { 0% { stroke-dashoffset: 920 } 55%,100% { stroke-dashoffset: 0 } }
+      .wake { animation: wake 8s ease-in-out infinite; }
+      @keyframes wake { 0%,5% { opacity: .45 } 11%,88% { opacity: 1 } 96%,100% { opacity: .45 } }
+      .k2 { animation-delay: .7s } .k3 { animation-delay: 1.4s }
+      .k4 { animation-delay: 2.1s } .k5 { animation-delay: 2.8s }
+      .dot { animation: dotlit 8s ease-in-out infinite; }
+      @keyframes dotlit { 0%,5% { r: 6 } 11%,88% { r: 8 } 96%,100% { r: 6 } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="418" rx="14" fill="url(#panel)" stroke="url(#edge)" stroke-width="2.5"/>
+  <g clip-path="url(#clip)"><rect x="1" y="65" width="1198" height="354" fill="url(#dots)"/></g>
+
+  <circle cx="34" cy="34" r="6" fill="#ff5f57"/>
+  <circle cx="56" cy="34" r="6" fill="#febc2e"/>
+  <circle cx="78" cy="34" r="6" fill="#28c840"/>
+  <text class="m" x="104" y="39" font-size="13" fill="#6e7681">ilyass-hakim — the whole stack</text>
+  <text class="m" x="1164" y="39" font-size="11" fill="#484f58" text-anchor="end">five layers · one engineer</text>
+  <path d="M1 64 H1199" stroke="#30363d" stroke-width="1"/>
+
+  <path class="rail"  d="M140 108 H1060"/>
+  <path class="pulse" d="M140 108 H1060"/>
+
+  <g class="chev">
+    <path class="wake k2" d="M250 190 l9 9 l-9 9"/>
+    <path class="wake k3" d="M480 190 l9 9 l-9 9"/>
+    <path class="wake k4" d="M710 190 l9 9 l-9 9"/>
+    <path class="wake k5" d="M940 190 l9 9 l-9 9"/>
+  </g>
+
+  <g class="wake">
+    <circle class="dot" cx="140" cy="108" r="6" fill="#58a6ff"/>
+    <rect x="32" y="140" width="216" height="250" rx="12" class="card"/>
+    <rect x="32" y="140" width="216" height="115" rx="12" fill="url(#g1)"/>
+    <rect x="42" y="140" width="196" height="3.5" rx="2" fill="#58a6ff"/>
+    <text class="m num" x="232" y="168" font-size="12" text-anchor="end">01</text>
+    <circle cx="140" cy="196" r="25" fill="none" stroke="#58a6ff" stroke-width="1.5" opacity=".75"/>
+    <g class="ico" stroke="#58a6ff" transform="translate(140,196)">
+      <path d="M-5 -6 L-11 0 L-5 6"/><path d="M5 -6 L11 0 L5 6"/><path d="M2.5 -8 L-2.5 8"/>
+    </g>
+    <text class="f ttl" x="140" y="254" font-size="16" text-anchor="middle">Development</text>
+    <text class="m" x="140" y="274" font-size="9.5" letter-spacing="2" text-anchor="middle" fill="#58a6ff">BUILD IT</text>
+    <path d="M50 290 H230" stroke="#21262d" stroke-width="1"/>
+    <text class="m desc" x="140" y="312" font-size="10.5" text-anchor="middle">services and interfaces</text>
+    <text class="m desc" x="140" y="331" font-size="10.5" text-anchor="middle">data models</text>
+    <text class="m desc" x="140" y="350" font-size="10.5" text-anchor="middle">integrations</text>
+  </g>
+
+  <g class="wake k2">
+    <circle class="dot k2" cx="370" cy="108" r="6" fill="#3fb950"/>
+    <rect x="262" y="140" width="216" height="250" rx="12" class="card"/>
+    <rect x="262" y="140" width="216" height="115" rx="12" fill="url(#g2)"/>
+    <rect x="272" y="140" width="196" height="3.5" rx="2" fill="#3fb950"/>
+    <text class="m num" x="462" y="168" font-size="12" text-anchor="end">02</text>
+    <circle cx="370" cy="196" r="25" fill="none" stroke="#3fb950" stroke-width="1.5" opacity=".75"/>
+    <g class="ico" stroke="#3fb950" transform="translate(370,196)">
+      <path d="M0 -11 L9 -6.5 V2 C9 7.5 4.5 10.5 0 11.5 C-4.5 10.5 -9 7.5 -9 2 V-6.5 Z"/>
+      <path d="M-4 0 l2.7 2.7 l5 -5.4"/>
+    </g>
+    <text class="f ttl" x="370" y="254" font-size="16" text-anchor="middle">DevSecOps</text>
+    <text class="m" x="370" y="274" font-size="9.5" letter-spacing="2" text-anchor="middle" fill="#3fb950">SHIP IT</text>
+    <path d="M280 290 H460" stroke="#21262d" stroke-width="1"/>
+    <text class="m desc" x="370" y="312" font-size="10.5" text-anchor="middle">build and test automation</text>
+    <text class="m desc" x="370" y="331" font-size="10.5" text-anchor="middle">security gates</text>
+    <text class="m desc" x="370" y="350" font-size="10.5" text-anchor="middle">artifacts and releases</text>
+  </g>
+
+  <g class="wake k3">
+    <circle class="dot k3" cx="600" cy="108" r="6" fill="#bc8cff"/>
+    <rect x="492" y="140" width="216" height="250" rx="12" class="card"/>
+    <rect x="492" y="140" width="216" height="115" rx="12" fill="url(#g3)"/>
+    <rect x="502" y="140" width="196" height="3.5" rx="2" fill="#bc8cff"/>
+    <text class="m num" x="692" y="168" font-size="12" text-anchor="end">03</text>
+    <circle cx="600" cy="196" r="25" fill="none" stroke="#bc8cff" stroke-width="1.5" opacity=".75"/>
+    <g class="ico" stroke="#bc8cff" transform="translate(600,196)">
+      <path d="M-10 5.5 a5.5 5.5 0 0 1 1.6 -10.8 a7.2 7.2 0 0 1 13.7 1.6 a5.2 5.2 0 0 1 0.2 9.2 Z"/>
+    </g>
+    <text class="f ttl" x="600" y="254" font-size="16" text-anchor="middle">Cloud &amp; Orchestration</text>
+    <text class="m" x="600" y="274" font-size="9.5" letter-spacing="2" text-anchor="middle" fill="#bc8cff">RUN IT</text>
+    <path d="M510 290 H690" stroke="#21262d" stroke-width="1"/>
+    <text class="m desc" x="600" y="312" font-size="10.5" text-anchor="middle">containerised workloads</text>
+    <text class="m desc" x="600" y="331" font-size="10.5" text-anchor="middle">environments and scaling</text>
+    <text class="m desc" x="600" y="350" font-size="10.5" text-anchor="middle">configuration</text>
+  </g>
+
+  <g class="wake k4">
+    <circle class="dot k4" cx="830" cy="108" r="6" fill="#f0883e"/>
+    <rect x="722" y="140" width="216" height="250" rx="12" class="card"/>
+    <rect x="722" y="140" width="216" height="115" rx="12" fill="url(#g4)"/>
+    <rect x="732" y="140" width="196" height="3.5" rx="2" fill="#f0883e"/>
+    <text class="m num" x="922" y="168" font-size="12" text-anchor="end">04</text>
+    <circle cx="830" cy="196" r="25" fill="none" stroke="#f0883e" stroke-width="1.5" opacity=".75"/>
+    <g class="ico" stroke="#f0883e" transform="translate(830,196)">
+      <rect x="-10" y="-10" width="20" height="6.5" rx="1.8"/>
+      <rect x="-10" y="-1.5" width="20" height="6.5" rx="1.8"/>
+      <path d="M-6.5 -6.7 h0.01"/><path d="M-6.5 1.8 h0.01"/>
+      <path d="M-4.5 11 l3.2 -2.7 l-3.2 -2.7"/><path d="M1 11 h6.5"/>
+    </g>
+    <text class="f ttl" x="830" y="254" font-size="16" text-anchor="middle">Linux &amp; Systems</text>
+    <text class="m" x="830" y="274" font-size="9.5" letter-spacing="2" text-anchor="middle" fill="#f0883e">OPERATE IT</text>
+    <path d="M740 290 H920" stroke="#21262d" stroke-width="1"/>
+    <text class="m desc" x="830" y="312" font-size="10.5" text-anchor="middle">systems administration</text>
+    <text class="m desc" x="830" y="331" font-size="10.5" text-anchor="middle">networking and services</text>
+    <text class="m desc" x="830" y="350" font-size="10.5" text-anchor="middle">monitoring</text>
+  </g>
+
+  <g class="wake k5">
+    <circle class="dot k5" cx="1060" cy="108" r="6" fill="#f778ba"/>
+    <rect x="952" y="140" width="216" height="250" rx="12" class="card"/>
+    <rect x="952" y="140" width="216" height="115" rx="12" fill="url(#g5)"/>
+    <rect x="962" y="140" width="196" height="3.5" rx="2" fill="#f778ba"/>
+    <text class="m num" x="1152" y="168" font-size="12" text-anchor="end">05</text>
+    <circle cx="1060" cy="196" r="25" fill="none" stroke="#f778ba" stroke-width="1.5" opacity=".75"/>
+    <g class="ico" stroke="#f778ba" transform="translate(1060,196)">
+      <path d="M-9 -6 L0 -1 L9 -6"/><path d="M-9 4 L0 9 L9 4"/><path d="M0 -1 V9"/>
+      <circle cx="-9" cy="-6" r="2.4"/><circle cx="9" cy="-6" r="2.4"/>
+      <circle cx="-9" cy="4" r="2.4"/><circle cx="9" cy="4" r="2.4"/>
+      <circle cx="0" cy="-1" r="2.8"/>
+    </g>
+    <text class="f ttl" x="1060" y="254" font-size="16" text-anchor="middle">Applied AI</text>
+    <text class="m" x="1060" y="274" font-size="9.5" letter-spacing="2" text-anchor="middle" fill="#f778ba">TEACH IT</text>
+    <path d="M970 290 H1150" stroke="#21262d" stroke-width="1"/>
+    <text class="m desc" x="1060" y="312" font-size="10.5" text-anchor="middle">model integration</text>
+    <text class="m desc" x="1060" y="331" font-size="10.5" text-anchor="middle">inference in production</text>
+    <text class="m desc" x="1060" y="350" font-size="10.5" text-anchor="middle">documents and speech</text>
+  </g>
+</svg>
