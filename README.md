@@ -138,9 +138,9 @@ and a cluster to land on — and I've built every one of those layers, in more t
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/stack-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/stack-light.svg">
-    <img alt="The whole stack — development, DevSecOps, cloud and orchestration, Linux and systems administration." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/stack-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/layers-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/layers-light.svg">
+    <img alt="The whole stack — development, DevSecOps, cloud and orchestration, Linux and systems administration." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/layers-dark.svg" width="100%">
   </picture>
 </p>
 
