@@ -1,23 +1,23 @@
-<h1 align="center">Ilyass Hakim</h1>
-
 <p align="center">
-  <b>Backend engineer — Java / Spring Boot — and the pipelines that ship it.</b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/header-light.svg">
+    <img alt="Ilyass Hakim — I build software end to end, and the pipelines that ship it." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/header-dark.svg" width="100%">
+  </picture>
 </p>
 
-<p align="center">
-  I build production-shaped systems end to end: layered Spring Boot services with versioned
-  migrations, caching and rate limiting; Android and React Native clients that talk to them;
-  and the DevSecOps pipelines that scan, package and deploy the whole thing to Kubernetes.
-</p>
+I don't stop at the code. A feature I write gets an API, a client, a container, a scan, a pipeline
+and a cluster to land on — and I've built every one of those layers, in more than one language.
 
----
+### What that looks like
 
-### What I work on
+**Ship it** &nbsp;·&nbsp; Jenkins declarative pipelines that build, then run Gitleaks, SonarQube, Semgrep and OWASP Dependency-Check, publish to Artifactory and Docker Hub, deploy to Kubernetes through Ansible, and file every finding into DefectDojo.
 
-- **Backend systems** — Spring Boot 3 on Java 21: REST + WebSocket APIs, JWT and OAuth2 security, Flyway migrations, Redis caching, Bucket4j rate limiting, OpenAPI docs, Actuator health checks.
-- **CI/CD & DevSecOps** — Jenkins declarative pipelines that run Gitleaks, SonarQube, Semgrep and OWASP Dependency-Check, publish to Artifactory and Docker Hub, deploy to Kubernetes via Ansible, and report findings into DefectDojo.
-- **Mobile & web clients** — Jetpack Compose with Hilt and Retrofit, React Native with Expo, Angular and Thymeleaf front ends.
-- **Applied AI** — local LLM inference with Ollama, neural text-to-speech, OCR document parsing, wired into real application backends.
+**Serve it** &nbsp;·&nbsp; Layered services on Spring Boot and ASP.NET Core — REST and WebSocket APIs, JWT and OAuth2, versioned migrations, Redis caching, rate limiting, OpenAPI docs, health checks.
+
+**Reach it** &nbsp;·&nbsp; Native Android in Jetpack Compose with Hilt and Retrofit, cross-platform apps in React Native and Flutter, web front ends in Angular and Thymeleaf.
+
+**Teach it something** &nbsp;·&nbsp; Local LLM inference with Ollama, neural text-to-speech, OCR document parsing — wired into real backends, not notebooks.
 
 ---
 
@@ -33,18 +33,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **DevOps & Infrastructure**
 
@@ -66,6 +54,18 @@
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-1E1E1E?style=for-the-badge&logo=git&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Dependency--Check-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![DefectDojo](https://img.shields.io/badge/DefectDojo-FF3D00?style=for-the-badge&logo=securityscorecard&logoColor=white)
+
+**Backend & APIs**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Data**
 
