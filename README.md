@@ -56,6 +56,10 @@ and a cluster to land on — and I've built every one of those layers, in more t
       <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/jfrog" alt="Artifactory"><br><sub><b>Artifactory</b></sub></td>
       <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/apachetomcat" alt="Tomcat"><br><sub><b>Tomcat</b></sub></td>
   </tr>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/helm" alt="Helm"><br><sub><b>Helm</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/terraform" alt="Terraform"><br><sub><b>Terraform</b></sub></td>
+  </tr>
 </table>
 
 **Security in the pipeline**
