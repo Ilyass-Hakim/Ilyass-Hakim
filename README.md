@@ -134,6 +134,20 @@ and a cluster to land on — and I've built every one of those layers, in more t
 
 ---
 
+### One of them, drawn
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/arch-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/arch-light.svg">
+    <img alt="sensai architecture — Compose Android client, Spring Boot API, PostgreSQL, Redis and a local Ollama model." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/arch-dark.svg" width="100%">
+  </picture>
+</p>
+
+**[sensai](https://github.com/Ilyass-Hakim/sensai-backend)** — a Compose Android client talking to a Spring Boot service that owns its schema through Flyway, caches and rate-limits in Redis, streams chat over WebSocket, and runs inference against a local model rather than someone's API. The whole stack comes up with one `docker compose up`, and a Jenkins pipeline builds, tests and containerises it.
+
+---
+
 ### Selected work
 
 | Project | What it is | Built with |
