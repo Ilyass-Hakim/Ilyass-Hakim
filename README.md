@@ -25,75 +25,88 @@ and a cluster to land on — and I've built every one of those layers, in more t
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img height="44" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Kotlin" title="Kotlin" src="https://cdn.simpleicons.org/kotlin">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="JavaScript" title="JavaScript" src="https://cdn.simpleicons.org/javascript">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Python" title="Python" src="https://cdn.simpleicons.org/python">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="PHP" title="PHP" src="https://cdn.simpleicons.org/php">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Dart" title="Dart" src="https://cdn.simpleicons.org/dart">
+</p>
 
-**DevOps & Infrastructure**
+**DevOps &amp; Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Artifactory](https://img.shields.io/badge/Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+<p>
+<img height="44" alt="Docker" title="Docker" src="https://cdn.simpleicons.org/docker">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Kubernetes" title="Kubernetes" src="https://cdn.simpleicons.org/kubernetes">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Jenkins" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Ansible" title="Ansible" src="https://cdn.simpleicons.org/ansible/EE0000/ff6b6b">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Vagrant" title="Vagrant" src="https://cdn.simpleicons.org/vagrant">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Maven" title="Apache Maven" src="https://cdn.simpleicons.org/apachemaven">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Gradle" title="Gradle" src="https://cdn.simpleicons.org/gradle/02303A/8ecfe0">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="JFrog Artifactory" title="JFrog Artifactory" src="https://cdn.simpleicons.org/jfrog">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Apache Tomcat" title="Apache Tomcat" src="https://cdn.simpleicons.org/apachetomcat">
+</p>
 
 **Security in the pipeline**
 
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-1B2B34?style=for-the-badge&logo=semgrep&logoColor=white)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-1E1E1E?style=for-the-badge&logo=git&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Dependency--Check-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![DefectDojo](https://img.shields.io/badge/DefectDojo-FF3D00?style=for-the-badge&logo=securityscorecard&logoColor=white)
+<p>
+<img height="44" alt="SonarQube" title="SonarQube" src="https://cdn.simpleicons.org/sonarqubeserver">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Semgrep" title="Semgrep" src="https://github.com/semgrep.png?size=88">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Gitleaks" title="Gitleaks" src="https://github.com/gitleaks.png?size=88">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="OWASP Dependency-Check" title="OWASP Dependency-Check" src="https://cdn.simpleicons.org/owasp/000000/ffffff">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="DefectDojo" title="DefectDojo" src="https://github.com/DefectDojo.png?size=88">
+</p>
 
-**Backend & APIs**
+**Backend &amp; APIs**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<p>
+<img height="44" alt="Spring Boot" title="Spring Boot" src="https://cdn.simpleicons.org/springboot">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Hibernate" title="JPA / Hibernate" src="https://cdn.simpleicons.org/hibernate/59666C/9fb0b8">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="ASP.NET Core" title="ASP.NET Core" src="https://cdn.simpleicons.org/dotnet">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Node.js" title="Node.js" src="https://cdn.simpleicons.org/nodedotjs">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Express" title="Express" src="https://cdn.simpleicons.org/express/000000/ffffff">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Socket.io" title="Socket.io" src="https://cdn.simpleicons.org/socketdotio/010101/ffffff">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="OpenAPI" title="OpenAPI / Swagger" src="https://cdn.simpleicons.org/openapiinitiative">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="JWT" title="JSON Web Tokens" src="https://cdn.simpleicons.org/jsonwebtokens/000000/ffffff">
+</p>
 
 **Data**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_/_MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
+<img height="44" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.simpleicons.org/postgresql">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="MySQL" title="MySQL" src="https://cdn.simpleicons.org/mysql">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="MariaDB" title="MariaDB" src="https://cdn.simpleicons.org/mariadb/003545/7fb3c8">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="SQL Server" title="Microsoft SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="MongoDB" title="MongoDB" src="https://cdn.simpleicons.org/mongodb">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Redis" title="Redis" src="https://cdn.simpleicons.org/redis">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Flyway" title="Flyway" src="https://cdn.simpleicons.org/flyway">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Firebase" title="Firebase" src="https://cdn.simpleicons.org/firebase">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Supabase" title="Supabase" src="https://cdn.simpleicons.org/supabase">
+</p>
 
-**Mobile & Front end**
+**Mobile &amp; Front end**
 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+<img height="44" alt="Jetpack Compose" title="Jetpack Compose" src="https://cdn.simpleicons.org/jetpackcompose">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Android" title="Android" src="https://cdn.simpleicons.org/android">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="React Native" title="React Native" src="https://cdn.simpleicons.org/react">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Expo" title="Expo" src="https://cdn.simpleicons.org/expo/000020/ffffff">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Flutter" title="Flutter" src="https://cdn.simpleicons.org/flutter">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Angular" title="Angular" src="https://cdn.simpleicons.org/angular">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Thymeleaf" title="Thymeleaf" src="https://cdn.simpleicons.org/thymeleaf/005F0F/4ec96f">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Tailwind CSS" title="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Bootstrap" title="Bootstrap" src="https://cdn.simpleicons.org/bootstrap">
+</p>
 
 **Applied AI**
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<p>
+<img height="44" alt="Ollama" title="Ollama" src="https://cdn.simpleicons.org/ollama/000000/ffffff">&nbsp;&nbsp;&nbsp;
+<img height="44" alt="Tesseract OCR" title="Tesseract OCR" src="https://github.com/tesseract-ocr.png?size=88">
+</p>
 
 ---
 
