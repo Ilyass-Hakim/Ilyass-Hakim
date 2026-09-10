@@ -25,88 +25,112 @@ and a cluster to land on — and I've built every one of those layers, in more t
 
 **Languages**
 
-<p>
-<img height="44" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Kotlin" title="Kotlin" src="https://cdn.simpleicons.org/kotlin">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="JavaScript" title="JavaScript" src="https://cdn.simpleicons.org/javascript">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Python" title="Python" src="https://cdn.simpleicons.org/python">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="PHP" title="PHP" src="https://cdn.simpleicons.org/php">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Dart" title="Dart" src="https://cdn.simpleicons.org/dart">
-</p>
+<table>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><br><sub><b>Java</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/kotlin" alt="Kotlin"><br><sub><b>Kotlin</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"><br><sub><b>C#</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"><br><sub><b>JavaScript</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/python" alt="Python"><br><sub><b>Python</b></sub></td>
+  </tr>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/php" alt="PHP"><br><sub><b>PHP</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/dart" alt="Dart"><br><sub><b>Dart</b></sub></td>
+  </tr>
+</table>
 
 **DevOps &amp; Infrastructure**
 
-<p>
-<img height="44" alt="Docker" title="Docker" src="https://cdn.simpleicons.org/docker">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Kubernetes" title="Kubernetes" src="https://cdn.simpleicons.org/kubernetes">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Jenkins" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Ansible" title="Ansible" src="https://cdn.simpleicons.org/ansible/EE0000/ff6b6b">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Vagrant" title="Vagrant" src="https://cdn.simpleicons.org/vagrant">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Maven" title="Apache Maven" src="https://cdn.simpleicons.org/apachemaven">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Gradle" title="Gradle" src="https://cdn.simpleicons.org/gradle/02303A/8ecfe0">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="JFrog Artifactory" title="JFrog Artifactory" src="https://cdn.simpleicons.org/jfrog">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Apache Tomcat" title="Apache Tomcat" src="https://cdn.simpleicons.org/apachetomcat">
-</p>
+<table>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/docker" alt="Docker"><br><sub><b>Docker</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes"><br><sub><b>Kubernetes</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins"><br><sub><b>Jenkins</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/ansible/EE0000/ff6b6b" alt="Ansible"><br><sub><b>Ansible</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/vagrant" alt="Vagrant"><br><sub><b>Vagrant</b></sub></td>
+  </tr>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"><br><sub><b>Linux</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/apachemaven" alt="Maven"><br><sub><b>Maven</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/gradle/02303A/8ecfe0" alt="Gradle"><br><sub><b>Gradle</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/jfrog" alt="Artifactory"><br><sub><b>Artifactory</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/apachetomcat" alt="Tomcat"><br><sub><b>Tomcat</b></sub></td>
+  </tr>
+</table>
 
 **Security in the pipeline**
 
-<p>
-<img height="44" alt="SonarQube" title="SonarQube" src="https://cdn.simpleicons.org/sonarqubeserver">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Semgrep" title="Semgrep" src="https://github.com/semgrep.png?size=88">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Gitleaks" title="Gitleaks" src="https://github.com/gitleaks.png?size=88">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="OWASP Dependency-Check" title="OWASP Dependency-Check" src="https://cdn.simpleicons.org/owasp/000000/ffffff">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="DefectDojo" title="DefectDojo" src="https://github.com/DefectDojo.png?size=88">
-</p>
+<table>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/sonarqubeserver" alt="SonarQube"><br><sub><b>SonarQube</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://github.com/semgrep.png?size=88" alt="Semgrep"><br><sub><b>Semgrep</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://github.com/gitleaks.png?size=88" alt="Gitleaks"><br><sub><b>Gitleaks</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/owasp/000000/ffffff" alt="OWASP DC"><br><sub><b>OWASP DC</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://github.com/DefectDojo.png?size=88" alt="DefectDojo"><br><sub><b>DefectDojo</b></sub></td>
+  </tr>
+</table>
 
 **Backend &amp; APIs**
 
-<p>
-<img height="44" alt="Spring Boot" title="Spring Boot" src="https://cdn.simpleicons.org/springboot">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Hibernate" title="JPA / Hibernate" src="https://cdn.simpleicons.org/hibernate/59666C/9fb0b8">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="ASP.NET Core" title="ASP.NET Core" src="https://cdn.simpleicons.org/dotnet">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Node.js" title="Node.js" src="https://cdn.simpleicons.org/nodedotjs">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Express" title="Express" src="https://cdn.simpleicons.org/express/000000/ffffff">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Socket.io" title="Socket.io" src="https://cdn.simpleicons.org/socketdotio/010101/ffffff">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="OpenAPI" title="OpenAPI / Swagger" src="https://cdn.simpleicons.org/openapiinitiative">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="JWT" title="JSON Web Tokens" src="https://cdn.simpleicons.org/jsonwebtokens/000000/ffffff">
-</p>
+<table>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot"><br><sub><b>Spring Boot</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/hibernate/59666C/9fb0b8" alt="Hibernate"><br><sub><b>Hibernate</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/dotnet" alt="ASP.NET Core"><br><sub><b>ASP.NET Core</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js"><br><sub><b>Node.js</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/express/000000/ffffff" alt="Express"><br><sub><b>Express</b></sub></td>
+  </tr>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/socketdotio/010101/ffffff" alt="Socket.io"><br><sub><b>Socket.io</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/openapiinitiative" alt="OpenAPI"><br><sub><b>OpenAPI</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/jsonwebtokens/000000/ffffff" alt="JWT"><br><sub><b>JWT</b></sub></td>
+  </tr>
+</table>
 
 **Data**
 
-<p>
-<img height="44" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.simpleicons.org/postgresql">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="MySQL" title="MySQL" src="https://cdn.simpleicons.org/mysql">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="MariaDB" title="MariaDB" src="https://cdn.simpleicons.org/mariadb/003545/7fb3c8">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="SQL Server" title="Microsoft SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="MongoDB" title="MongoDB" src="https://cdn.simpleicons.org/mongodb">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Redis" title="Redis" src="https://cdn.simpleicons.org/redis">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Flyway" title="Flyway" src="https://cdn.simpleicons.org/flyway">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Firebase" title="Firebase" src="https://cdn.simpleicons.org/firebase">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Supabase" title="Supabase" src="https://cdn.simpleicons.org/supabase">
-</p>
+<table>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/mysql" alt="MySQL"><br><sub><b>MySQL</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/mariadb/003545/7fb3c8" alt="MariaDB"><br><sub><b>MariaDB</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"><br><sub><b>SQL Server</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB"><br><sub><b>MongoDB</b></sub></td>
+  </tr>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/redis" alt="Redis"><br><sub><b>Redis</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/flyway" alt="Flyway"><br><sub><b>Flyway</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/firebase" alt="Firebase"><br><sub><b>Firebase</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/supabase" alt="Supabase"><br><sub><b>Supabase</b></sub></td>
+  </tr>
+</table>
 
 **Mobile &amp; Front end**
 
-<p>
-<img height="44" alt="Jetpack Compose" title="Jetpack Compose" src="https://cdn.simpleicons.org/jetpackcompose">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Android" title="Android" src="https://cdn.simpleicons.org/android">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="React Native" title="React Native" src="https://cdn.simpleicons.org/react">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Expo" title="Expo" src="https://cdn.simpleicons.org/expo/000020/ffffff">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Flutter" title="Flutter" src="https://cdn.simpleicons.org/flutter">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Angular" title="Angular" src="https://cdn.simpleicons.org/angular">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Thymeleaf" title="Thymeleaf" src="https://cdn.simpleicons.org/thymeleaf/005F0F/4ec96f">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Tailwind CSS" title="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Bootstrap" title="Bootstrap" src="https://cdn.simpleicons.org/bootstrap">
-</p>
+<table>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/jetpackcompose" alt="Jetpack Compose"><br><sub><b>Jetpack Compose</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/android" alt="Android"><br><sub><b>Android</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/react" alt="React Native"><br><sub><b>React Native</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/expo/000020/ffffff" alt="Expo"><br><sub><b>Expo</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/flutter" alt="Flutter"><br><sub><b>Flutter</b></sub></td>
+  </tr>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/angular" alt="Angular"><br><sub><b>Angular</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/thymeleaf/005F0F/4ec96f" alt="Thymeleaf"><br><sub><b>Thymeleaf</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS"><br><sub><b>Tailwind CSS</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap"><br><sub><b>Bootstrap</b></sub></td>
+  </tr>
+</table>
 
 **Applied AI**
 
-<p>
-<img height="44" alt="Ollama" title="Ollama" src="https://cdn.simpleicons.org/ollama/000000/ffffff">&nbsp;&nbsp;&nbsp;
-<img height="44" alt="Tesseract OCR" title="Tesseract OCR" src="https://github.com/tesseract-ocr.png?size=88">
-</p>
+<table>
+  <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/ollama/000000/ffffff" alt="Ollama"><br><sub><b>Ollama</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://github.com/tesseract-ocr.png?size=88" alt="Tesseract OCR"><br><sub><b>Tesseract OCR</b></sub></td>
+  </tr>
+</table>
 
 ---
 
