@@ -13,9 +13,9 @@ and a cluster to land on — and I've built every one of those layers, in more t
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/practice-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/practice-light.svg">
-    <img width="100%" alt="Ship it — Jenkins declarative pipelines that build, then run Gitleaks, SonarQube, Semgrep and OWASP Dependency-Check, publish to Artifactory and Docker Hub, deploy to Kubernetes through Ansible, and file every finding into DefectDojo. Serve it — layered services on Spring Boot and ASP.NET Core: REST and WebSocket APIs, JWT and OAuth2, versioned migrations, Redis caching, rate limiting, OpenAPI docs, health checks. Reach it — native Android in Jetpack Compose with Hilt and Retrofit, cross-platform work in React, React Native and Flutter, web front ends in Angular and Thymeleaf. Teach it something — local LLM inference with Ollama, neural text-to-speech, OCR document parsing, wired into real backends, not notebooks." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/practice-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/craft-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/craft-light.svg">
+    <img width="100%" alt="Ship it — Jenkins declarative pipelines that build, then run Gitleaks, SonarQube, Semgrep and OWASP Dependency-Check, publish to Artifactory and Docker Hub, deploy to Kubernetes through Ansible, and file every finding into DefectDojo. Serve it — layered services on Spring Boot and ASP.NET Core: REST and WebSocket APIs, JWT and OAuth2, versioned migrations, Redis caching, rate limiting, OpenAPI docs, health checks. Reach it — native Android in Jetpack Compose with Hilt and Retrofit, cross-platform work in React, React Native and Flutter, web front ends in Angular and Thymeleaf. Teach it something — machine learning and applied AI: training and evaluating models, natural language and computer vision, and the engineering that puts inference into a product instead of a notebook." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/craft-dark.svg">
   </picture>
 </p>
 
@@ -124,7 +124,7 @@ and a cluster to land on — and I've built every one of those layers, in more t
   </tr>
 </table>
 
-**Applied AI**
+**AI &amp; Machine Learning**
 
 <table>
   <tr>
@@ -139,15 +139,15 @@ and a cluster to land on — and I've built every one of those layers, in more t
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/map-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/map-light.svg">
-    <img alt="The whole stack — development, DevSecOps, cloud and orchestration, Linux and systems administration, and applied AI." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/map-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/stackmap-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/stackmap-light.svg">
+    <img alt="The whole stack — development, DevSecOps, cloud and orchestration, Linux and systems administration, and AI and machine learning." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/stackmap-dark.svg" width="100%">
   </picture>
 </p>
 
 Most people specialise in one of these. I work across all five — which means I can write the
 service, automate its path to production, package it to run anywhere, administer the machines under
-it, and wire a model into it when that is the right answer. The tools change per project; the layers do not.
+it, and bring machine learning to it when that is the right answer. The tools change per project; the layers do not.
 
 ---
 
