@@ -128,7 +128,13 @@ and a cluster to land on — and I've built every one of those layers, in more t
 
 <table>
   <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn"><br><sub><b>scikit-learn</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/pandas" alt="pandas"><br><sub><b>pandas</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/numpy" alt="NumPy"><br><sub><b>NumPy</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/jupyter" alt="Jupyter"><br><sub><b>Jupyter</b></sub></td>
       <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/ollama/000000/ffffff" alt="Ollama"><br><sub><b>Ollama</b></sub></td>
+  </tr>
+  <tr>
       <td align="center" width="105"><img height="40" src="https://github.com/tesseract-ocr.png?size=88" alt="Tesseract OCR"><br><sub><b>Tesseract OCR</b></sub></td>
   </tr>
 </table>
