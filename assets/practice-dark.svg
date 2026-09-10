@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-labelledby="wt">
-  <title id="wt">Ship it: Jenkins declarative pipelines running Gitleaks, SonarQube, Semgrep and OWASP Dependency-Check, publishing to Artifactory and Docker Hub, deploying to Kubernetes through Ansible and filing findings into DefectDojo. Serve it: layered services on Spring Boot and ASP.NET Core with REST and WebSocket APIs, JWT and OAuth2, versioned migrations, Redis caching, rate limiting, OpenAPI docs and health checks. Reach it: native Android in Jetpack Compose with Hilt and Retrofit, cross-platform apps in React Native and Flutter, web front ends in Angular and Thymeleaf. Teach it something: local LLM inference with Ollama, neural text-to-speech and OCR document parsing wired into real backends.</title>
+  <title id="wt">Ship it: Jenkins declarative pipelines running Gitleaks, SonarQube, Semgrep and OWASP Dependency-Check, publishing to Artifactory and Docker Hub, deploying to Kubernetes through Ansible and filing findings into DefectDojo. Serve it: layered services on Spring Boot and ASP.NET Core with REST and WebSocket APIs, JWT and OAuth2, versioned migrations, Redis caching, rate limiting, OpenAPI docs and health checks. Reach it: native Android in Jetpack Compose with Hilt and Retrofit, cross-platform work in React, React Native and Flutter, web front ends in Angular and Thymeleaf. Teach it something: local LLM inference with Ollama, neural text-to-speech and OCR document parsing wired into real backends.</title>
   <defs>
     <style>
       .f  { font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
@@ -51,11 +51,12 @@
 
   <g>
     <text class="f gh breathe d3" x="540" y="356" font-size="94" stroke="#bc8cff" text-anchor="end">03</text>
-    <path class="key" stroke="#bc8cff" d="M40 330 V441"/>
+    <path class="key" stroke="#bc8cff" d="M40 330 V464"/>
     <text class="f h" x="68" y="360" font-size="31">Reach it</text>
     <path class="ul d3" stroke="#bc8cff" d="M68 376 H144"/>
     <text class="f p" x="68" y="408" font-size="13.5">Native Android in Jetpack Compose with Hilt and Retrofit, cross-platform</text>
-    <text class="f p" x="68" y="431" font-size="13.5">apps in React Native and Flutter, web front ends in Angular and Thymeleaf.</text>
+    <text class="f p" x="68" y="431" font-size="13.5">work in React, React Native and Flutter, web front ends in Angular</text>
+    <text class="f p" x="68" y="454" font-size="13.5">and Thymeleaf.</text>
   </g>
 
   <g>

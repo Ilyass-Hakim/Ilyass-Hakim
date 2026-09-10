@@ -13,9 +13,9 @@ and a cluster to land on — and I've built every one of those layers, in more t
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/work-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/work-light.svg">
-    <img width="100%" alt="Ship it — Jenkins declarative pipelines that build, then run Gitleaks, SonarQube, Semgrep and OWASP Dependency-Check, publish to Artifactory and Docker Hub, deploy to Kubernetes through Ansible, and file every finding into DefectDojo. Serve it — layered services on Spring Boot and ASP.NET Core: REST and WebSocket APIs, JWT and OAuth2, versioned migrations, Redis caching, rate limiting, OpenAPI docs, health checks. Reach it — native Android in Jetpack Compose with Hilt and Retrofit, cross-platform apps in React Native and Flutter, web front ends in Angular and Thymeleaf. Teach it something — local LLM inference with Ollama, neural text-to-speech, OCR document parsing, wired into real backends, not notebooks." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/work-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/practice-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/practice-light.svg">
+    <img width="100%" alt="Ship it — Jenkins declarative pipelines that build, then run Gitleaks, SonarQube, Semgrep and OWASP Dependency-Check, publish to Artifactory and Docker Hub, deploy to Kubernetes through Ansible, and file every finding into DefectDojo. Serve it — layered services on Spring Boot and ASP.NET Core: REST and WebSocket APIs, JWT and OAuth2, versioned migrations, Redis caching, rate limiting, OpenAPI docs, health checks. Reach it — native Android in Jetpack Compose with Hilt and Retrofit, cross-platform work in React, React Native and Flutter, web front ends in Angular and Thymeleaf. Teach it something — local LLM inference with Ollama, neural text-to-speech, OCR document parsing, wired into real backends, not notebooks." src="https://raw.githubusercontent.com/Ilyass-Hakim/Ilyass-Hakim/main/assets/practice-dark.svg">
   </picture>
 </p>
 
@@ -111,11 +111,12 @@ and a cluster to land on — and I've built every one of those layers, in more t
   <tr>
       <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/jetpackcompose" alt="Jetpack Compose"><br><sub><b>Jetpack Compose</b></sub></td>
       <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/android" alt="Android"><br><sub><b>Android</b></sub></td>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/react" alt="React"><br><sub><b>React</b></sub></td>
       <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/react" alt="React Native"><br><sub><b>React Native</b></sub></td>
       <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/expo/000020/ffffff" alt="Expo"><br><sub><b>Expo</b></sub></td>
-      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/flutter" alt="Flutter"><br><sub><b>Flutter</b></sub></td>
   </tr>
   <tr>
+      <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/flutter" alt="Flutter"><br><sub><b>Flutter</b></sub></td>
       <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/angular" alt="Angular"><br><sub><b>Angular</b></sub></td>
       <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/thymeleaf/005F0F/4ec96f" alt="Thymeleaf"><br><sub><b>Thymeleaf</b></sub></td>
       <td align="center" width="105"><img height="40" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS"><br><sub><b>Tailwind CSS</b></sub></td>
